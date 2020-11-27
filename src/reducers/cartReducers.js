@@ -20,4 +20,4 @@ switch(action.type){
 
 }
 
-export { cartReducer }
+export {cartReducer}
